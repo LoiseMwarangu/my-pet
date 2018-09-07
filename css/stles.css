@@ -1,0 +1,32 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 60 px;
+}
+h2 {
+font-style: itallic;
+text-align: center;
+color: red;
+}
+li {
+  font-weight: bold;
+  font-size: 80px)
+  text-align: justify;
+  color: red;
+}
+p {
+  color:
+}
+body {
+  background-color: skyblue;
+  border: 50px;
+}
+header{
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+ul {line-height: 40px;
+}
